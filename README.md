@@ -1,4 +1,4 @@
-👋 hey there, i'm chris, a 16-year-old aspiring to be some sort of data scientist one day.
+hey there, i'm chris, a 16-year-old aspiring to be some sort of data scientist one day.
 
 ## about me
 
@@ -27,4 +27,4 @@
 thanks for stopping by!
 
 cheers,
-chris 🚀
+chris
