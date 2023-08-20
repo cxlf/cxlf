@@ -1,6 +1,6 @@
 👋 hey there, i'm chris, a 16-year-old aspiring to be some sort of data scientist one day.
 
-## about Me
+## about me
 
 - **name:** chris
 - **age:** 16
