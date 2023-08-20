@@ -20,6 +20,10 @@
 
 - student internship at a fintech startup
 
+## contact
+
+- email: loffiwatzzon@gmail.com
+
 thanks for stopping by!
 
 cheers,
