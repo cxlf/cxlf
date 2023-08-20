@@ -15,7 +15,7 @@
 - learning python
 - applying python in statistical models and machine learning
 
-## Experience
+## experience
 
 - student internship at a fintech startup
 
