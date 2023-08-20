@@ -9,6 +9,7 @@
 
 - data science
 - website design
+- monkeytype :D
 
 ## current focus
 
