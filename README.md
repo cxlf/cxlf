@@ -10,7 +10,7 @@
 - data science
 - website design
 
-## current Focus
+## current focus
 
 - learning python
 - applying python in statistical models and machine learning
