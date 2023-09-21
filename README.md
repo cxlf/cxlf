@@ -6,11 +6,12 @@ hey there, i'm chris, a 16-year-old aspiring to be some sort of data scientist o
 - monkeytype :D
 
 ## current focus
-- learning python
-- applying python in statistical models and machine learning
+- learning python and c++
+- beating malenia
 
 ## experience
 - student internship at a fintech startup
+- elden ring, sifu, (armored core)
 
 ## contact
 - email: loffiwatzzon@gmail.com
